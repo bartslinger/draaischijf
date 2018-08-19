@@ -1,0 +1,5 @@
+#define PUSHBUTTON 0
+#define EARPIECE 5
+#define DIAL_PIN 16
+#define RINGER_STEP_PIN 14
+#define RINGER_RESET_PIN 12
